@@ -18,7 +18,7 @@
 					height: 100vh;
 					background: #510A09;
 					z-index: -1;
-
+				
 				}
 
 				nav {
@@ -51,6 +51,10 @@
 					height: 60%;
 					width: 100%;
 					position: relative;
+					border:2px solid #9F800D;
+					border-radius:10px;
+					
+					
 					
 				}
 
@@ -179,6 +183,7 @@
 					margin-left: 5%;
 					margin-right: 5%;
 					height: 60vh;
+					border:2px solid #9F800D;
 
 
 				}
@@ -192,6 +197,7 @@
 
 				table {
 					border-collapse: collapse;
+					border:2px solid #9F800D;
 				}
 
 				table.list {
